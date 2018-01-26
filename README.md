@@ -295,10 +295,10 @@ for more details on configuring your environment, managing project dependencies 
 
 ## Contributors
 
-Tariq Almaashani
-Ran Bi
-Bridget Hartill
-Anthony Messina
+ * Tariq Almaashani
+ * Ran Bi
+ * Bridget Hartill
+ * Anthony Messina
 
 ## License
 
