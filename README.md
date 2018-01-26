@@ -293,6 +293,13 @@ Please make sure your contributions adhere to our coding guidelines:
 Please see the [Developers' Guide](https://github.com/ethereum/go-ethereum/wiki/Developers'-Guide)
 for more details on configuring your environment, managing project dependencies and testing procedures.
 
+## Contributors
+
+Tariq Almaashani
+Ran Bi
+Bridget Hartill
+Anthony Messina
+
 ## License
 
 The go-ethereum library (i.e. all code outside of the `cmd` directory) is licensed under the
