@@ -295,6 +295,7 @@ for more details on configuring your environment, managing project dependencies 
 
 ## Contributors
 
+#### Team gitgud
  * Tariq Almaashani
  * Ran Bi
  * Bridget Hartill
